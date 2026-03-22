@@ -24,3 +24,8 @@ A sanctuary for retired hardware and a manifesto for hardware dignity, honoring 
 ---
 ### ライセンスについて
 このプロジェクトの文書および思想は、[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) の下に提供されます。
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
